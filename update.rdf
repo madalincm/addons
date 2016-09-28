@@ -2,9 +2,6 @@
 
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
-  
-     
-     https://cdn.rawgit.com/madalincm/addons/master/testCheckUpdate01V2.xpi
      
   <Description about="urn:mozilla:extension:testCheckUpdate01@test.com">
     <em:updates>
