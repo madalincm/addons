@@ -1,0 +1,14 @@
+{
+ "updatetestwebext01@test.com"{
+    
+     
+    "version": "2.0",
+    "update_link": "https://test.com"; 
+    "multiprecess_compatible": "true", 
+    "applications": { 
+        "strict_min_version": "48.0",
+        "strict_max_version": "*"
+
+    }
+  }
+}
